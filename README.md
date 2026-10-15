@@ -1,4 +1,4 @@
-This is all the documentation for the new Magic: the Gathering format, known as Eternalize. 
+This is all the documentation for the new Magic: the Gathering format, known as Eternalized. 
 
 Brief summary:
 Deck size - 60 minimum.     
