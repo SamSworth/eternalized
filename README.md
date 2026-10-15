@@ -8,7 +8,6 @@ At time of writing this is 24 cards including the original five basic lands.
 Scryfall filter for format: https://scryfall.com/search?q=legal%3Aoldschool+legal%3Apioneer+legal%3Amodern+legal%3Alegacy+legal%3Avintage++legal%3Apauper++legal%3Apremodern&order=name&as=grid&unique=cards
 
 
-Please note that Arena formats are not factored in for reasons outlined on the main web page (index.html) and that Alchemy is ignored due to its impending retirement as a format (rip).
-
+Please note that Arena formats are not factored in for reasons outlined on the main web page (index.html)
          
 All Magic properties and Feldon's Cane art property of Hasbro and Wizards of the Coast
